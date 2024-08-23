@@ -1,4 +1,6 @@
 //assignment9aug
+
+1-->10 addition 
 /*
 #include <stdio.h>
 
@@ -15,7 +17,12 @@ while(a<=10)
     return 0;
 }
 */
+    ---------------------------------------------------------------
 
+    
+ count of the digit in c :
+
+342484
 /*
 #include <stdio.h>
 int main()
@@ -32,7 +39,10 @@ int main()
 
 }
 */
+    ---------------------------------------------------------------
 
+ reverse digit :
+4456
 /*
 #include<stdio.h>
 int main()
@@ -50,7 +60,9 @@ int main()
     return 0;
 }
 */
+    ---------------------------------------------------------------
 
+palindrome number
 /*
 # include<stdio.h>
 int main()
@@ -76,7 +88,9 @@ int main()
     return 0;
 }
 */
+---------------------------------------------------------------
 
+Armstrong number 
 /*
 #include<stdio.h>
 int main()
@@ -102,7 +116,10 @@ int main()
    return 0;
 }
 */
+---------------------------------------------------------------
 
+neon number :
+9 
 /*
 #include<stdio.h>
 int main()
@@ -129,7 +146,10 @@ int main()
     return 0;
 }
 */
+    ---------------------------------------------------------------
 
+ sum of digit :
+434 : 4+3+4 =>11   
 /*
 #include<stdio.h>
 int main()
@@ -147,7 +167,15 @@ int main()
     return 0;
 }
 */
+    ---------------------------------------------------------------
 
+ a :Armstrong number check 
+
+p :palindrome number check 
+
+r :number reverse 
+
+s :sum of digit    
 /*
 #include<stdio.h>
 int main()
@@ -218,7 +246,9 @@ int main()
     return 0;
 }
 */
+---------------------------------------------------------------
 
+1--->10 even number ka sum 
 /*
 #include<stdio.h>
 int main()
@@ -236,7 +266,9 @@ int main()
     return 0;
 }
 */
+    ---------------------------------------------------------------
 
+10---->1 odd number ka sum
 /*
 #include<stdio.h>
 int main()
