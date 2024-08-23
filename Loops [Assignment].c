@@ -1,5 +1,5 @@
 //assignment 8 aug
-
+1)two number maximum 
 /*
 #include<stdio.h>
 
@@ -18,7 +18,9 @@ int main()
     return 0;
 }
 */
+-----------------------------------------------------------------------
 
+2)three number maximum 
 /*
 #include<stdio.h>
 int main()
@@ -41,8 +43,33 @@ int main()
     return 0;
 }
 */
+-----------------------------------------------------------------------
 
 
+3)
+e :
+	even number check 
+
+v :
+	check voter id valid or not 
+
+s :
+	seasons 
+
+m :
+	marksheet 
+
+k :
+	keyboard 
+
+z :
+	w :with third variable number swap 
+	o :without third variable number swap 
+
+c :
+	vowel and consonant 
+
+input is not valid 
 
 /*
 #include<stdio.h>
@@ -204,12 +231,13 @@ else if(a=='z')
         printf("%d %d",a,b);
         
     }
-    
     else
     {
         printf("invalid");
     }
 }
+
+
 else if(a=='c')
 {
     char v;
@@ -226,8 +254,7 @@ else if(a=='c')
     
 }
 
-
-    else
+  else
     {
         printf("invalid input");
     }
@@ -235,9 +262,26 @@ else if(a=='c')
     return 0;
 }
 */
+-----------------------------------------------------------------------
 
 
+1--->10 number print 
 
+1----->100 
+
+50--->100
+
+45---->89 
+
+
+10--->1 (dry run)
+
+100--->1 
+
+100-->50
+
+89----->45
+   
 /*
 #include<stdio.h>
 int main()
@@ -252,6 +296,7 @@ int main()
 }
 */
 
+
 /*
 #include<stdio.h>
 int main()
@@ -266,6 +311,7 @@ int main()
 }
 */
 
+  
 /*
 #include<stdio.h>
 int main()
@@ -280,6 +326,7 @@ int main()
 }
 */
 
+   
 /*
 #include<stdio.h>
 int main()
@@ -293,6 +340,7 @@ int main()
     return 0;
 }
 */
+
 
 /*
 #include<stdio.h>
@@ -308,6 +356,7 @@ int main()
 }
 */
 
+ 
 /*
 #include<stdio.h>
 int main()
@@ -321,6 +370,7 @@ int main()
     return 0;
 }
 */
+
 
 /*
 #include<stdio.h>
@@ -336,6 +386,7 @@ int main()
 }
 */
 
+  
 /*
 #include<stdio.h>
 int main()
@@ -349,6 +400,26 @@ int main()
     return 0;
 }
 */
+   -----------------------------------------------------------------------
+
+   even number 
+
+1--->10 number print (dry run)
+
+1----->100 
+
+50--->100
+
+45---->89 
+
+
+10--->1 (dry run)
+
+100--->1 
+
+100-->50
+
+89----->45 
 
 /*
 #include<stdio.h>
@@ -468,9 +539,26 @@ int main()
     return 0;
 }
 */
+-----------------------------------------------------------------------
 
 
+odd number 
+1--->10 number print (dry run)
 
+1----->100 
+
+50--->100
+
+45---->89 
+
+
+10--->1 (dry run)
+
+100--->1 
+
+100-->50
+
+89----->45 
 /*
 #include<stdio.h>
 int main()
@@ -612,8 +700,21 @@ int main()
     return 0;
 }
 */
+-----------------------------------------------------------------------
 
+a :
+	1--->10 number print 
 
+b :
+	56--->34 number print 
+
+c :
+	1---->100 even number 
+
+d :
+	87----->32 odd number 
+
+input is not valid 
 /*
 #include<stdio.h>
 int main()
