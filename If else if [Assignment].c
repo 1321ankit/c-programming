@@ -1,4 +1,6 @@
 //assignment6aug
+1)
+week days 
 /* 1
 #include <stdio.h>
 
@@ -43,7 +45,10 @@ int main()
     return 0;
 }
 */
+-------------------------------------------------------
 
+    
+2)months
 /* 2
 #include <stdio.h>
 
@@ -108,7 +113,12 @@ int main()
     return 0;
 }
 */
+-------------------------------------------------------
 
+3)seasons 
+1:spring
+2 :summer 
+3 :
 /* 3
 
 #include <stdio.h>
@@ -146,6 +156,16 @@ int main()
       return 0;
 }
 */
+    -------------------------------------------------------
+
+4)
+q,w,e,r,t,y,u,i,o,p :upper line 
+
+a,s,d,f,g,h,j,k,l :mid line 
+
+z,x,c,v,b,n,m :lower line 
+
+input is not valid 
 
 /* 4
 #include <stdio.h>
@@ -175,7 +195,13 @@ int main()
       return 0;
 }
 */
+-------------------------------------------------------
 
+5)
+a :apple 
+b :ball
+c :cat 
+d :dog 
 /* 5
 #include <stdio.h>
 
@@ -208,7 +234,33 @@ int main()
     return 0;
 }
 */
+    -------------------------------------------------------
 
+    6)
+a :
+	two number addition
+
+s :
+	two number substraction
+
+m :
+	two number multiplication
+
+d :
+	two number divide 
+
+o :
+	two number modular 
+
+input is not valid 
+--------------------------------------------------
+s :
+	two number input number swap without third variable 
+
+w :
+	two number input number swap with third variable 
+
+input is not valid 
 /* 6,7
 #include <stdio.h>
 
@@ -276,7 +328,15 @@ int main()
     return 0;
 }
 */
+-------------------------------------------------------
 
+user input number : 
+	2 nd 3 both 
+	6 and 9 anyone 
+	5 and 4 both 
+	3 and 8 anyone 
+
+input is not valid 
 /* 8
 #include <stdio.h>
 
@@ -309,8 +369,12 @@ int main()
     return 0;
 }
 */
+-------------------------------------------------------
 
-
+1----->10 this number is between 1 to 10 
+11---->20 this number is between 11 to 20
+34--->89 this number is between 34 to 89 
+input is not valid 
 /* 9
 #include<stdio.h>
 int main()
@@ -339,9 +403,14 @@ int main()
     return 0;
 }
 */
+-------------------------------------------------------
 
 
+user five marks input 
+all subject marks greater 36 
+	pass
 
+fail
 /* 10
 #include<stdio.h>
 int main()
@@ -361,9 +430,15 @@ int main()
     return 0;
 }
 */
+-------------------------------------------------------
 
 
+user five marks input 
+all subject marks greater 36 
+	average 
+	total average is :...
 
+fail
 /* 11
 #include<stdio.h>
 int main()
@@ -386,7 +461,13 @@ int main()
     return 0;
 }
 */
+-------------------------------------------------------
 
+user five marks input 
+all subject marks greater 40
+	percentage...
+
+fail
 /* 12
 #include<stdio.h>
 int main()
@@ -410,7 +491,13 @@ int main()
     return 0;
 }
 */
+-------------------------------------------------------
 
+C program to convert temperature from Fahrenheit to Celsius and Celsius to Fahrenheit
+celsius 
+f---->c 
+fahrenheit
+c---f 
 /* 13
 #include<stdio.h>
 int main()
@@ -441,8 +528,17 @@ int main()
 }
 
 */
+    -------------------------------------------------------
 
-
+C program to enter student marks and find percentage and grade
+A college has the following rules for the grading system:
+5 marks (grade + %)
+1. Below 25 – F
+2. 25 to 45 – E
+3. 45 to 50 – D
+4. 50 to 60 – C
+5. 60 to 80 – B 
+6. Above 80 – A
 /* 14
 #include<stdio.h>
 int main()
@@ -484,9 +580,23 @@ int main()
     return 0;
 }
 */
+    -------------------------------------------------------
 
 
+salalry :
+holidays (1) =full salary 
+2-5 =5% 
+5-14 =10% 
+15 =50% 
+else =not salary 
 
+output : 
+name:
+address: 
+bank details: 
+salary : 
+alot :
+ holidays 
 /*
 #include <stdio.h>
 
@@ -529,8 +639,22 @@ int main()
     return 0;
 }
 */
+     -------------------------------------------------------
 
+electric city bill : 
+4 unit 
+40 
+1- 10 = 10% 
+11-20 =15% 
+21-40 =30% 
+50 =50% 
 
+output : 
+name:
+unit :3 
+amout 30 
+discout : 10% 
+total pay amount : 
 /*
 #include<stdio.h>
 int main()
