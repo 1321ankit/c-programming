@@ -1,4 +1,6 @@
 //assignment12aug
+
+1-->10 number print for loop
 /*
 #include <stdio.h>
 
@@ -12,7 +14,9 @@ int main()
     return 0;
 }
 */
+-----------------------------------------------------------
 
+50-->100 number print for loop
 /*
 # include <stdio.h>
 int main()
@@ -23,7 +27,9 @@ int main()
     }
 }
 */
+-----------------------------------------------------------
 
+56-->78 number print for loop
 /*
 #include<stdio.h>
 int main()
@@ -36,6 +42,7 @@ int main()
 }
 */
 
+10---->1 number print for loop
 /*
 #include <stdio.h>
 int main()
@@ -46,7 +53,10 @@ int main()
     }
 }
 */
+-----------------------------------------------------------
 
+100----->50
+number print for loop
 /*
 #include<stdio.h>
 int main()
@@ -57,6 +67,9 @@ int main()
     }
 }
 */
+-----------------------------------------------------------
+
+78---->56  number print for loop
 
 /*
 #include<stdio.h>
@@ -68,7 +81,9 @@ int main()
     }
 }
 */
+-----------------------------------------------------------
 
+1--->5 even number : 
 /*
 #include<stdio.h>
 int main()
@@ -82,7 +97,9 @@ int main()
     }
 }
 */
-
+-----------------------------------------------------------
+	
+78--->56 odd number
 /*
 #include<stdio.h>
 int main()
@@ -97,8 +114,9 @@ int main()
 	return 0;
 }
 */
+-----------------------------------------------------------
 
-
+1--->10 number sum for loop through
 /*
 #include<stdio.h>
 int main()
@@ -113,9 +131,10 @@ int main()
     return 0;
 }
 */
+-----------------------------------------------------------
 
+factorial
 /*
-//factorial
 #include<stdio.h>
 int main()
 {
@@ -128,9 +147,10 @@ int main()
     return 0;
 }
 */
+-----------------------------------------------------------
 
+Fibonacci series
 /*
-//fibonnaci series
 #include<stdio.h>
 int main()
 {
