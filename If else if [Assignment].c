@@ -1,4 +1,5 @@
 //assignment6aug
+
 1)
 week days 
 /* 1
