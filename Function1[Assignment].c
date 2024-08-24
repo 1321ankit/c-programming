@@ -1,3 +1,6 @@
+//assignment22aug
+
+hello world print through function 
 /*
 #include<stdio.h>
 void show();
@@ -11,7 +14,12 @@ void show()
     printf("Hello world");
 }*/
 
-
+-------------------------------------------------------------------------------
+addition
+sub
+multi
+div 
+through function
 /*
 #include<stdio.h>
 void add();
@@ -58,8 +66,11 @@ void divi()
    printf("division of two numbers is %d\n",c); 
 }
 */
+-------------------------------------------------------------------------------
+swap()  :with third variable 
+wswap() :without third variable 
 
-
+through function 
 /*
 #include<stdio.h>
 void swap();
@@ -93,7 +104,23 @@ void wswap()
 
 }*/
 
+-------------------------------------------------------------------------------
+a :
+	check Armstrong number 
 
+p :
+	check palindrome number 
+
+e :
+	check even number 
+
+r :
+	reverse number check 
+c :
+	count digit 
+
+s :
+	sum of digit 
 /*
 #include<stdio.h>
 void armstrong();
@@ -236,7 +263,8 @@ void sumd()
 }
 */
 
-
+-------------------------------------------------------------------------------
+Write a C program to find power of any number x ^ y
 /*
 #include<stdio.h>
 int main()
@@ -256,7 +284,8 @@ int main()
     return 0;
 }
 */ 
-
+-------------------------------------------------------------------------------     
+Write a C program to check whether a number is negative, positive or zero.
 /*
 #include<stdio.h>
 int main()
@@ -280,8 +309,8 @@ int main()
     return 0;
 }
 */
-
-
+-------------------------------------------------------------------------------
+Write a C program to find first and last digit of a number
 /*
 #include <stdio.h>
 
@@ -302,7 +331,8 @@ printf("the first number is %d",rem);
     return 0;
 }
 */
-
+-------------------------------------------------------------------------------
+Write a C program to find sum of first and last digit of a number
 
 /*
 #include <stdio.h>
@@ -325,7 +355,8 @@ printf("the sum is %d",sum);
     return 0;
 }
 */
-
+-------------------------------------------------------------------------------
+Write a C program to calculate product of digits of a number.
 /*
 #include<stdio.h>
 int main()
@@ -341,8 +372,8 @@ int main()
   }
   printf("%d",value);
 }*/
-
-
+-------------------------------------------------------------------------------
+Write a C program to print all Armstrong numbers between 100 to 1000.
 /*
 #include<stdio.h>
 int main()
