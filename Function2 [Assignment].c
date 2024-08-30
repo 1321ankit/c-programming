@@ -1,5 +1,10 @@
 //assignment23aug
 
+addition
+sub
+multi
+div 
+through function
 /*
 #include<stdio.h>
 void add(int a,int b);
@@ -37,8 +42,10 @@ void divi(int a,int b)
     int c=a/b;
     printf("division %d",c);
 }*/
+---------------------------------------------
 
-
+swap()  :with third variable 
+wswap() :without third variable 
 /*
 #include<stdio.h>
 void swap(int a,int b);
@@ -68,8 +75,32 @@ void wswap(int a,int b)
     a=a-b;
     printf("%d %d",a,b);
 }*/
+---------------------------------------------
 
- 
+    
+ a :
+	check Armstrong number 
+
+p :
+	check palindrome number 
+
+e :
+	check even number 
+
+r :
+	reverse number check 
+c :
+	count digit 
+
+s :
+	sum of digit 
+
+f :
+	factorial 
+
+g :
+	Fibonacci
+
 /*    
 #include <stdio.h>
 void arm(int a);
@@ -256,7 +287,12 @@ void count(int c)
      }
  }
 */ 
-
+------------------------------------------
+1 2 3 4 5 
+2 3 4 5 6 
+3 4 5 6 7 
+4 5 6 7 8 
+5 6 7 8 9 
 
 /*
 #include <stdio.h>
@@ -276,8 +312,13 @@ int main()
     return 0;
 }
 */
-
-
+------------------------------------------
+        
+1 6 11 16 21
+2 7 12 17 22
+3 8 13 18 23
+4 9 14 19 24
+5 10 15 20 25 
 /*
 #include <stdio.h>
 
