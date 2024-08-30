@@ -1,5 +1,8 @@
  // assignment26aug
- 
+
+float -->return 
+
+ return and no argument 
  /*
 #include <stdio.h>
 float show();
@@ -15,8 +18,12 @@ float show()
     c=a+b;
     return c;
 }*/
+-------------------------------------------------------------------------------
 
-
+addition
+sub
+multi
+div 
 /*
 #include<stdio.h>
 int add();
@@ -68,6 +75,9 @@ int divi()
 }
 */
 
+-------------------------------------------------------------------------------
+swap()  :with third variable 
+wswap() :without third variable 
 /*
 #include<stdio.h>
 int swap();
@@ -101,7 +111,30 @@ int wswap()
     printf("%d %d",a,b);
 }*/
 
+-------------------------------------------------------------------------------
+a :
+	check Armstrong number 
 
+p :
+	check palindrome number 
+
+e :
+	check even number 
+
+r :
+	reverse number check 
+c :
+	count digit 
+
+s :
+	sum of digit 
+
+f :
+	factorial 
+
+g :
+	Fibonacci
+  
 /*
 #include<stdio.h>
 int arm();
